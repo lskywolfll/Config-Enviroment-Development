@@ -12,7 +12,7 @@ Se nesesita instalar Eslint a nivel global o local en tu proyecto de nodejs para
 
 ### Global
 ~~~
-npm1 install -g eslint 
+npm install -g eslint 
 ~~~
 
 ### Local
