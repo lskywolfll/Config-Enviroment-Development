@@ -19,3 +19,8 @@ npm install -g eslint
 ~~~
 npm install -D eslint
 ~~~
+
+# Fuentes
+
+1. (Configuracion)[https://www.kuworking.com/blog/vscode-configurar-eslint-prettier]
+1. (Eslint)[https://eslint.org/docs/user-guide/getting-started]
