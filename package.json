@@ -1,0 +1,26 @@
+{
+  "name": "Config-Enviroment-Development",
+  "version": "1.0.0",
+  "description": "Configuraciones de prettier y eslint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lskywolfll/Config-Enviroment-Development.git"
+  },
+  "keywords": [],
+  "author": "Rene <renealejandrosanchezmorales@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lskywolfll/Config-Enviroment-Development/issues"
+  },
+  "homepage": "https://github.com/lskywolfll/Config-Enviroment-Development#readme",
+  "devDependencies": {
+    "eslint": "^7.1.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.3",
+    "prettier": "^2.0.5"
+  }
+}
