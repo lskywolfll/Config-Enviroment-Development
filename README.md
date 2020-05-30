@@ -1,4 +1,5 @@
 # Config-Enviroment-Development
+
 Configuraciones de prettier y eslint
 
 # Extensiones Necesarias
@@ -8,17 +9,19 @@ Configuraciones de prettier y eslint
 
 # Modulos Necesarios Para Eslint
 
-Se nesesita instalar Eslint a nivel global o local en tu proyecto de nodejs para hacerlo funcionar con todo sus funcionamientos 
+Se nesesita instalar Eslint a nivel global o local en tu proyecto de nodejs para hacerlo funcionar con todo sus funcionamientos
 
-### Global
-~~~
-npm install -g eslint 
-~~~
+### Dependencia Global (No del proyecto)
 
-### Local
-~~~
-npm install -D eslint
-~~~
+```
+npm install -g eslint eslint-config-prettier eslint-plugin-prettier prettier
+```
+
+### Dependencias De Desarrollo
+
+```
+npm install -D eslint slint eslint-config-prettier eslint-plugin-prettier prettier
+```
 
 # Fuentes
 
