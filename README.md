@@ -20,7 +20,7 @@ npm install -g eslint eslint-config-prettier eslint-plugin-prettier prettier
 ### Dependencias De Desarrollo
 
 ```
-npm install -D eslint slint eslint-config-prettier eslint-plugin-prettier prettier
+npm install -D eslint eslint-config-prettier eslint-plugin-prettier prettier
 ```
 
 # Fuentes
